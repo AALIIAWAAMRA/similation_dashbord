@@ -9,7 +9,7 @@ function simulationApp() {
          { name: "Block Collision", tool: "python", category: "Networek", reserved: true, reservedBy: "Wala Eddine Boulebbina, YEZZA Ayoub, Djarallah Aymen, Mouslim Beneddeb" },
          { name: "Trafic light system", tool: "SimScale", category: "Engineering", reserved: true, reservedBy: "chouha aya, Alim chaloach,anfel zeghini,Doaa charara,Medour mohamed" },
          { name: " Blokchain Transaction", tool: "python", category: "Business", reserved: true, reservedBy: "Hamza Rouabah, Lakhdari Rida,Abderraouf Baguigu" },
-         { name: "Aerodynamic Vehicle Design", tool: "ANSYS", category: "Engineering", reserved: false, reservedBy: null },
+         { name: "DOS DDOS detaction", tool: "ns3  netanim", category: "Engineering", reserved: false, reservedBy: "Laouar stahi chaima,Laoubi meriem" },
          { name: "Crowd Behavior Analysis", tool: "NetLogo", category: "Social", reserved: false, reservedBy: null },
          { name: "3D Animation & Motion Simulation", tool: "Blender", category: "Engineering", reserved: false, reservedBy: null },
          { name: "Disease Spread Modeling", tool: "python", category: "Healthcare", reserved: false, reservedBy: null },
