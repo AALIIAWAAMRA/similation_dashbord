@@ -24,4 +24,4 @@ To get started with this project, follow these steps:
    Open your terminal and run:
 
    ```bash
-   git clone [https://github.com/yourusername/yourrepository.git](https://github.com/AALIIAWAAMRA/similation_dashbord)
+   git clone https://github.com/AALIIAWAAMRA/similation_dashbord
